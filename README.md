@@ -1,6 +1,6 @@
 # 💰 Finance Tracker
 
-A simple finance tracking app built with **React (TypeScript)** and **Node.js/Express**.
+A simple finance tracking app built with **React (TypeScript)** and **Node.js/Express (TypeScript)**.
 
 ## 🚀 How to Run the Project
 
@@ -32,6 +32,6 @@ cd ../backend
 npm install
 ```
 ```bash
-node app.js
+npm run dev
 ```
 API runs on http://localhost:5000
