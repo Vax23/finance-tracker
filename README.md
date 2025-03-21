@@ -4,8 +4,8 @@ A simple finance tracking app built with **React (TypeScript)** and **Node.js/Ex
 
 ## 🚀 How to Run the Project
 
-### 1️⃣ Clone the repository:
 ```bash
+1️⃣ Clone the repository:
 git clone https://github.com/Vax23/finance-tracker.git
 cd finance-tracker
 
