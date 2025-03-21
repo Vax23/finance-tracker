@@ -12,7 +12,7 @@ git clone https://github.com/Vax23/finance-tracker.git
 cd finance-tracker
 ```
 
-2️⃣ Start Frontend:
+### 2️⃣ Start Frontend:
 ```bash
 cd frontend
 ```
@@ -22,9 +22,9 @@ npm install
 ```bash
 npm start
 ```
-# Runs on http://localhost:3000
+Runs on http://localhost:3000
 
-3️⃣ Start Backend:
+### 3️⃣ Start Backend:
 ```bash
 cd ../backend
 ```
@@ -34,4 +34,4 @@ npm install
 ```bash
 node app.js
 ```
-# API runs on http://localhost:5000
+API runs on http://localhost:5000
